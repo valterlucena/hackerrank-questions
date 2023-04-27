@@ -1,1 +1,2 @@
--- SQL code goes here
+SELECT FLOOR(AVG(POPULATION))
+FROM CITY
