@@ -1,1 +1,5 @@
--- SQL code goes here
+SELECT ci.NAME
+FROM CITY ci 
+INNER JOIN COUNTRY co
+    ON ci.COUNTRYCODE = co.CODE
+WHERE co.CONTINENT = 'Africa'
