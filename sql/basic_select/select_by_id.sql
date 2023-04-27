@@ -1,1 +1,3 @@
--- SQL code goes here
+SELECT *
+FROM CITY
+WHERE ID = '1661'

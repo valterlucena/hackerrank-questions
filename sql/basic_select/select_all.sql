@@ -1,1 +1,2 @@
--- SQL code goes here
+SELECT * 
+FROM CITY
