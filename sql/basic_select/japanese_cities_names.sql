@@ -1,1 +1,3 @@
--- SQL code goes here
+SELECT NAME
+FROM CITY
+WHERE COUNTRYCODE = 'JPN'

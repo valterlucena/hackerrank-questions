@@ -1,1 +1,2 @@
--- SQL code goes here
+SELECT CITY, STATE
+FROM STATION
